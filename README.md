@@ -31,32 +31,20 @@ stacked sequentially. Input Size: (1025, 489, 1)
 # Output Samples
 
 ## Spectogram 1
-Raw
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_1.png?raw=true "Optional Title"){:height="50%" width="50%"}
 
-Prediction
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_1.png?raw=true "Optional Title"){:height="50%" width="50%"}
-
-Ideal
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_1.png?raw=true "Optional Title"){:height="50%" width="50%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_1.png?raw=true "Raw"){:height="35%" width="35%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_1.png?raw=true "Prediction"){:height="35%" width="35%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_1.png?raw=true "Ideal"){:height="35%" width="35%"}
 
 ## Spectogram 2
-Raw
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_2.png?raw=true "Optional Title"){:height="50%" width="50%"}
 
-Prediction
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_2.png?raw=true "Optional Title"){:height="50%" width="50%"}
-
-Ideal
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_2.png?raw=true "Optional Title"){:height="50%" width="50%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_2.png?raw=true "Raw"){:height="35%" width="35%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_2.png?raw=true "Prediction"){:height="35%" width="35%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_2.png?raw=true "Ideal"){:height="35%" width="35%"}
 
 ## Spectogram 3
-Raw
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_3.png?raw=true "Optional Title"){:height="50%" width="50%"}
 
-Prediction
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_3.png?raw=true "Optional Title"){:height="50%" width="50%"}
-
-Ideal
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_3.png?raw=true "Optional Title"){:height="50%" width="50%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_3.png?raw=true "Raw"){:height="35%" width="35%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_3.png?raw=true "Prediction"){:height="35%" width="35%"}
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_3.png?raw=true "Ideal"){:height="35%" width="35%"}
 
