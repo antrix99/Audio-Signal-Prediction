@@ -26,6 +26,3 @@ Common Voice is a corpus of speech data read by users on the Common Voice websit
   3. LeakyRELU activation 
   
 stacked sequentially. Input Size: (1025, 489, 1)
-
-
-
