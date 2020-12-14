@@ -5,7 +5,7 @@ A recorded audio can have gaps in the signal due to various reasons such as faul
 
 # Short-Time Fourier Transform
 
-<img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/STFT.png" width="600" height="500">
+<img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/STFT.png" width="500" height="400">
 
 To calculate the STFT of a signal, we need to define a window of length M and a hop size value R. The latter defines how the window moves over the signal. Then, we slide the window over the signal and calculate the discrete Fourier Transform (DFT) of the data within the window. Thus, the STFT is simply the application of the Fourier Transform over different portions of the data. Lastly, we extract the magnitude vectors from the 2048-point STFT vectors and take the first 512-point by removing the remaining points. All this process was done using the Python Librosa library.
 
@@ -32,8 +32,8 @@ stacked sequentially. Input Size: (1025, 489, 1)
 
 ## Spectogram 1
 
-<img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_2.png" width="350" height="300"><img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_2.png" width="350" height="300"><img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_2.png" width="350" height="300">
+<img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_2.png" width="300" height="300"><img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_2.png" width="300" height="300"><img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_2.png" width="300" height="300">
 
 ## Spectogram 2
 
-<img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_3.png" width="350" height="300"><img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_3.png" width="350" height="300"><img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_3.png" width="350" height="300">
+<img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_3.png" width="300" height="300"><img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_3.png" width="300" height="300"><img src="https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_3.png" width="300" height="300">
