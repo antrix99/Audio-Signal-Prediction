@@ -1,5 +1,4 @@
 # Audio-Signal-Pediction
-Filling in the gaps in an audio signal
 
 A recorded audio can have gaps in the signal due to various reasons such as faulty microphone or lagging network. Using the concept of Spectral Sound gap filling, the signal is first converted to its short-time Fourier transform. The spectrogram obtained has discernible recesses that are filled by a CNN architecture which takes the spectogram as the input and fills in the gaps. The output spectogram is then transformed back to the audio signal which is smoother and comprehensible.
 
