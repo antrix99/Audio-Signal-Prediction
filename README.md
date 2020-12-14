@@ -27,3 +27,21 @@ Common Voice is a corpus of speech data read by users on the Common Voice websit
   3. LeakyRELU activation 
   
 stacked sequentially. Input Size: (1025, 489, 1)
+
+# Output Samples
+
+Spectogram 1
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_1.png?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_1.png?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_1.png?raw=true "Optional Title")
+
+Spectogram 2
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_2.png?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_2.png?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_2.png?raw=true "Optional Title")
+
+Spectogram 3
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_3.png?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_3.png?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_3.png?raw=true "Optional Title")
+
