@@ -4,7 +4,8 @@ Filling in the gaps in an audio signal
 A recorded audio can have gaps in the signal due to various reasons such as faulty microphone or lagging network. Using the concept of Spectral Sound gap filling, the signal is first converted to its short-time Fourier transform. The spectrogram obtained has discernible recesses that are filled by a CNN architecture which takes the spectogram as the input and fills in the gaps. The output spectogram is then transformed back to the audio signal which is smoother and comprehensible.
 
 # Short-Time Fourier Transform
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/imgs/STFT.png?raw=true "Optional Title")
+
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/STFT.png?raw=true "Optional Title")
 
 To calculate the STFT of a signal, we need to define a window of length M and a hop size value R. The latter defines how the window moves over the signal. Then, we slide the window over the signal and calculate the discrete Fourier Transform (DFT) of the data within the window. Thus, the STFT is simply the application of the Fourier Transform over different portions of the data. Lastly, we extract the magnitude vectors from the 2048-point STFT vectors and take the first 512-point by removing the remaining points. All this process was done using the Python Librosa library.
 
