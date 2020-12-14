@@ -31,7 +31,7 @@ stacked sequentially. Input Size: (1025, 489, 1)
 # Output Samples
 
 Spectogram 1
-![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_1.png?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/raw_1.png?raw=true "Optional Title"){:height="50%" width="50%"}
 ![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/pred_1.png?raw=true "Optional Title")
 ![alt text](https://raw.githubusercontent.com/antrix99/Audio-Signal-Prediction/master/imgs/ideal_1.png?raw=true "Optional Title")
 
